@@ -1,4 +1,4 @@
-# Who Won The Race - Static Page Template
+# Meeting Scheduling Web Page - Static Page Template
 
 This project is a static web page template titled "Meeting Scheduler" built using Vite, React, and Tailwind CSS. It provides a user-friendly layout for scheduling meetings and managing meeting details. The template is responsive, ensuring optimal viewing experience across various devices.
 
